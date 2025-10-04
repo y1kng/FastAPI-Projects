@@ -20,7 +20,7 @@ Overview: A simple **FastAPI-based TODO list application** that demonstrates ful
 ---
 
 ## 🧱 Project Structure
-
+```text
 fastapi-todo/
 ├── app/
 │ ├── main.py # Entry point
@@ -32,7 +32,7 @@ fastapi-todo/
 ├── requirements.txt # Project dependencies
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## ⚙️ Tech Stack
@@ -63,6 +63,8 @@ uvicorn app.main:app --reload
 ```
 Now visit 👉 http://127.0.0.1:8000/docs to access the interactive Swagger UI.
 
+---
+
 ## 🧪 How to Test
 This project includes unit tests for all CRUD endpoints:
 ```bash
@@ -80,18 +82,26 @@ PUT /todos/{id} → Update a TODO
 
 DELETE /todos/{id} → Delete a TODO
 
+---
+
 ## 💡 Example Endpoints
+```text
 Method	Endpoint	Description
 GET	    /todos	    Get all TODOs
 GET	    /todos/{id}	Get a specific TODO
 POST	/todos	    Add a new TODO
 PUT	    /todos/{id}	Update a TODO
 DELETE	/todos/{id}	Delete a TODO
+```
+
+---
 
 ## 🧠 Notes
 This version uses in-memory storage (list) for simplicity.
 
 Future versions can integrate **PostgreSQL** or **SQLite** via **SQLAlchemy** for persistent storage.
+
+---
 
 ## License
 MIT © 2025 y1kng
