@@ -17,5 +17,7 @@ uvicorn app:app --reload
 ```
 
 ### 3. Open your browser and visit:
+```text
 http://127.0.0.1:8000
 You should see: {"message": "Hello World!"}
+```
