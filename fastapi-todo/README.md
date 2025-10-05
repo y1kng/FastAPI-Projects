@@ -1,9 +1,7 @@
 # 📝 FastAPI TODO App
 
 > 🧭 This is **Project 2** of my `fastapi-projects` learning series.  
-> Each project builds upon the previous one, gradually adding new features and complexity.  
 > In this project, I implemented a full **CRUD** TODO app with in-memory storage and unit tests.
-
 
 Overview: A **FastAPI-based TODO list application** that demonstrates full CRUD functionality, data validation with **Pydantic**, and **unit testing** using FastAPI's built-in TestClient.
 
@@ -52,7 +50,6 @@ fastapi-todo/
 git clone https://github.com/y1kng/fastapi-projects.git
 cd fastapi-projects/fastapi-todo
 ```
-
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
