@@ -5,7 +5,7 @@
 > In this project, I implemented a full **CRUD** TODO app with in-memory storage and unit tests.
 
 
-Overview: A simple **FastAPI-based TODO list application** that demonstrates full CRUD functionality, data validation with **Pydantic**, and **unit testing** using FastAPI's built-in TestClient.
+Overview: A **FastAPI-based TODO list application** that demonstrates full CRUD functionality, data validation with **Pydantic**, and **unit testing** using FastAPI's built-in TestClient.
 
 ---
 
