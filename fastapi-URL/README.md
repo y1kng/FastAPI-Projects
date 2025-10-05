@@ -1,7 +1,6 @@
 # 📝 FastAPI URL Shortener
 
-> 🧭 This is **Project 3** of my `fastapi-projects` learning series.  
-> Each project builds upon the previous one, gradually adding new features and complexity.  
+> 🧭 This is **Project 3** of my `fastapi-projects` learning series.   
 > In this project, I implemented a **URL shortening service** with FastAPI, PostgreSQL, and SQLAlchemy,  
 > including short link generation, original URL retrieval, click tracking, and unit tests.
 
