@@ -19,6 +19,16 @@ Overview: A simple **FastAPI-based TODO list application** that demonstrates ful
 
 ---
 
+## ⚙️ Tech Stack
+
+- 🐍 **Python 3.11+**
+- ⚡ **FastAPI**
+- 📦 **Pydantic**
+- 🧪 **Pytest + TestClient**
+- 🚀 **Uvicorn**
+
+---
+
 ## 🧱 Project Structure
 ```text
 fastapi-todo/
@@ -33,16 +43,6 @@ fastapi-todo/
 ├── .gitignore
 └── README.md
 ```
----
-
-## ⚙️ Tech Stack
-
-- 🐍 **Python 3.x**
-- ⚡ **FastAPI**
-- 📦 **Pydantic**
-- 🧪 **Pytest + TestClient**
-- 🚀 **Uvicorn**
-
 ---
 
 ## ▶️ How to Run
