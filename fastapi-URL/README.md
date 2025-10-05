@@ -5,7 +5,7 @@
 > In this project, I implemented a **URL shortening service** with FastAPI, PostgreSQL, and SQLAlchemy,  
 > including short link generation, original URL retrieval, click tracking, and unit tests.
 
-Overview: A simple URL shortening service built with FastAPI, SQLAlchemy and PostgreSQL.
+Overview: A URL shortening service built with FastAPI, SQLAlchemy and PostgreSQL.
 Generate short links, retrieve original URLs, and track click counts.
 
 ---
